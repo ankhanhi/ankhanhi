@@ -1,13 +1,12 @@
 # Hi, I'm Anna 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+Budding Data Scientist with hands-on knowledge of Machine Learning models. Have the ability to understand the business, solve ploblems and describe solutions by Storytelling. Skilled in Python, Machine Learning, Deep Learning and Statisyics.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/ankhanhi/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankhanhi&layout=compact"/></a>
 </p>
 
 <p align='center'>
@@ -23,27 +22,20 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 
 
 ### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Solid understanding of machine learning techniques including: Support Vector Machine/Regression, Hierarchical clustering, Distant based Clustering, and Decision trees
+*   Participate in machine learning hackathons
+*   Write [posts](https://habr.com/ru/users/Kyvakh/) about data science.
+*   Сurrently studying in my 3rd year at [MIET](https://www.miet.ru/) 
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
-
-### My opensource projects
-
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+*   Python/SQL/C++/Java languages
+*   MySQL, PostgreSQL, CkickHouse
+*   JupiterHub, Google Collab
+*   Redash, Tableau Desktop
+*   GitHub/GitLab
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/ankhanhi/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=ankhanhi&color=DE002D">
    </a>
 </div>
