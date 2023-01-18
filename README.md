@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi, I'm Anna 👋
+Budding Data Scientist with hands-on knowledge of Machine Learning models. Have the ability to understand the business, solve ploblems and describe solutions by Storytelling. Skilled in Python, Machine Learning, Deep Learning and Statisyics.
 
-<!--
-**ankhanhi/ankhanhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/ankhanhi/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankhanhi&layout=compact"/></a>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+   <a href="https://www.linkedin.com/in/ankhanhi/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/ankhanhi">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:annahan39@gmail.com'>annahan39@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Key points
+*   Solid understanding of machine learning techniques including: Support Vector Machine/Regression, Hierarchical clustering, Distant based Clustering, and Decision trees
+*   Participate in machine learning hackathons
+*   Write [posts](https://habr.com/ru/users/Kyvakh/) about data science.
+*   Сurrently studying in my 3rd year at [MIET](https://www.miet.ru/) 
+
+## 🛠 Technical Stack
+*   Python/SQL/C++/Java languages
+*   MySQL, PostgreSQL, CkickHouse
+*   JupiterHub, Google Collab
+*   Redash, Tableau Desktop
+*   GitHub/GitLab
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/ankhanhi/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=ankhanhi&color=DE002D">
+   </a>
+</div>
