@@ -16,6 +16,9 @@ Budding Data Scientist with hands-on knowledge of Machine Learning models. Have 
    <a href="https://t.me/ankhanhi">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+   <a href="https://wa.me/?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B">
+       <img src="https://img.shields.io/badge/WhatsApp-009000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+   </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:annahan39@gmail.com'>annahan39@gmail.com</a>
 </p>
