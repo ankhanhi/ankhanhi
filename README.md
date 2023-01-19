@@ -2,11 +2,12 @@
 Budding Data Scientist with hands-on knowledge of Machine Learning models. Have the ability to understand the business, solve ploblems and describe solutions by Storytelling. Skilled in Python, Machine Learning, Deep Learning and Statisyics.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats-beta-sepia.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/ankhanhi/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankhanhi&layout=compact"/></a>
+           src="https://github-readme-stats-beta-sepia.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/ankhanhi/github-readme-stats"><img
+           height=150
+           src="https://github-readme-stats-beta-sepia.vercel.app/api/top-langs/?username=ankhanhi&layout=compact"/></a>
 </p>
 
 <p align='center'>
