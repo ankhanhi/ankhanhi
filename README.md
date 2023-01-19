@@ -33,7 +33,7 @@ Budding Data Scientist with hands-on knowledge of Machine Learning models. Have 
 
 ## 🛠 Technical Stack
 *   Python/SQL/C++/Java languages
-*   MySQL, PostgreSQL, CkickHouse
+*   MySQL, PostgreSQL, ClickHouse
 *   JupiterHub, Google Collab
 *   Redash, Tableau Desktop
 *   GitHub/GitLab
