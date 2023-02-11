@@ -25,7 +25,7 @@ Budding Data Scientist with hands-on knowledge of Machine Learning models. Have 
 </p>
 
 
-### Key points
+## 🔑 Key points
 *   Solid understanding of machine learning techniques including: Support Vector Machine/Regression, Hierarchical clustering, Distant based Clustering, and Decision trees
 *   Participate in machine learning hackathons
 *   Write [posts](https://habr.com/ru/users/Kyvakh/) about data science.
