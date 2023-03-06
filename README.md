@@ -1,5 +1,5 @@
 # Hi, I'm Anna 👋
-Budding Data Scientist with hands-on knowledge of Machine Learning models. Have the ability to understand the business, solve ploblems and describe solutions by Storytelling. Skilled in Python, Machine Learning, Deep Learning and Statisyics.
+As a Computer Science student with hands-on experience in Machine Learning models, I have a strong ability to understand the business, identify problems, and describe solutions through storytelling. My skills in Python, Machine Learning, Deep Learning, and Statistics allow me to leverage data-driven solutions to tackle complex challenges and improve processes.
 
 <p align='center'>
    <a href="https://github-readme-stats-beta-sepia.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"><img
@@ -27,8 +27,8 @@ Budding Data Scientist with hands-on knowledge of Machine Learning models. Have 
 
 ## 🔑 Key points
 *   Solid understanding of machine learning techniques including: Support Vector Machine/Regression, Hierarchical clustering, Distant based Clustering, and Decision trees
-*   Participate in machine learning hackathons
-*   Write [posts](https://habr.com/ru/users/Kyvakh/) about data science.
+*   Active participation in machine learning hackathons to stay up-to-date on the latest industry developments
+*   Passion for sharing knowledge through writing blog [posts](https://habr.com/ru/users/Kyvakh/) about data science
 *   Сurrently studying in my 3rd year at [MIET](https://www.miet.ru/) 
 
 ## 🛠 Technical Stack
