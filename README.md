@@ -32,11 +32,18 @@ As a Computer Science student with hands-on experience in Machine Learning model
 *   Сurrently studying in my 3rd year at [MIET](https://www.miet.ru/) 
 
 ## 🛠 Technical Stack
-*   Python/SQL/C++/Java languages
-*   MySQL, PostgreSQL, ClickHouse
-*   JupiterHub, Google Collab
-*   Redash, Tableau Desktop
-*   GitHub/GitLab
+* Python, with libraries such as Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn and PyTorch for developing machine learning models.
+* SQL and databases such as PostgreSQL, MySQL, and ClickHouse.
+* Bash for scripting and automation of routine tasks.
+* Redash for data visualization and discovering hidden patterns and trends.
+* MLflow and FastAPI for comprehensive development and monitoring of machine learning models.
+* Gitlab CI\CD for automation and scaling ML projects
+
+## 🍜 Pet Projects
+| Название | Описание | Инструменты | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Flower Genus Classifier](https://gitlab.com/AlexeyKulikov_ololo/mlops_flowers) | Team project on classification of 5 plants (tulip, chamomile, sunflower, rose, dandelion) based on a photo of a flower to a taxonomic genus based on a pre-trained neural network. The model allows you to upload a photo of a plant flower, carry out preliminary processing, give out the expected name of the flower (corresponds to the systematic genus) and the accuracy of prediction in percent (%). | `pytorch` `cv2` `DVC` `Gitlab CI` `poetry` `cookiecutter` `pre-commit hooks` |
+| [Russian Anime Portal Data Parsing](https://github.com/ankhanhi/russian-anime-dataset) | Parsing of the Russian anime portal [findanime.net](https://findanime.net). The dataset includes 7774 objects with 30 attributes (name, description, tags, user rating, translation status, number of series, reviews, etc.). The result is uploaded to a csv file. | `pandas` `BeautifulSoup` `requests-html` `regex` |
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/ankhanhi/github-profile-views-counter">
