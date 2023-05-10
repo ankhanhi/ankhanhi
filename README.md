@@ -17,7 +17,7 @@ As a Computer Science student with hands-on experience in Machine Learning model
    <a href="https://t.me/ankhanhi">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-   <a href="[https://wa.me/?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B](https://wtsp.cc/79991217735)">
+   <a href="https://wtsp.cc/79991217735">
        <img src="https://img.shields.io/badge/WhatsApp-009560?style=for-the-badge&logo=whatsapp&logoColor=white"/>
    </a>
 <p align='center'>
