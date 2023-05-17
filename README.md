@@ -2,12 +2,12 @@
 As a Computer Science student with hands-on experience in Machine Learning models, I have a strong ability to understand the business, identify problems, and describe solutions through storytelling. My skills in Python, Machine Learning, Deep Learning, and Statistics allow me to leverage data-driven solutions to tackle complex challenges and improve processes.
 
 <p align='center'>
-   <a href="https://github-readme-stats-dmdz.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats-11j6.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats-dmdz.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/ankhanhi/github-readme-stats"><img
+           src="https://github-readme-stats-11j6.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"/></a>
+   <a href="https://github-readme-stats-11j6"><img
            height=150
-           src="https://github-readme-stats-dmdz.vercel.app/api/top-langs/?username=ankhanhi&layout=compact"/></a>
+           src="https://github-readme-stats-11j6.vercel.app/api/top-langs/?username=ankhanhi&layout=compact"/></a>
 </p>
 
 <p align='center'>
