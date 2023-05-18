@@ -1,5 +1,5 @@
 # Hi, I'm Anna 👋
-As a Computer Science student with hands-on experience in Machine Learning models, I have a strong ability to understand the business, identify problems, and describe solutions through storytelling. My skills in Python, Machine Learning, Deep Learning, and Statistics allow me to leverage data-driven solutions to tackle complex challenges and improve processes.
+As a Computer Science student with hands-on experience in data science, I have a strong ability to understand the business, identify problems, and describe solutions through storytelling. My skills in Python, Machine Learning, Deep Learning, and Statistics allow me to leverage data-driven solutions to tackle complex challenges and improve processes.
 
 <p align='center'>
    <a href="https://github-readme-stats-11j6.vercel.app/api?username=ankhanhi&show_icons=true&count_private=true"><img
