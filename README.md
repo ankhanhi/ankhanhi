@@ -42,8 +42,10 @@ As a Computer Science student with hands-on experience in data science, I have a
 ## 🍜 Pet Projects
 | Название | Описание | Инструменты | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Flower Genus Classifier](https://gitlab.com/AlexeyKulikov_ololo/mlops_flowers) | Team project on classification of 5 plants (tulip, chamomile, sunflower, rose, dandelion) based on a photo of a flower to a taxonomic genus based on a pre-trained neural network. The model allows you to upload a photo of a plant flower, carry out preliminary processing, give out the expected name of the flower (corresponds to the systematic genus) and the accuracy of prediction in percent (%). | `pytorch` `cv2` `DVC` `Gitlab CI` `poetry` `cookiecutter` `pre-commit hooks` |
+| [Flower Genus Classifier](https://gitlab.com/AlexeyKulikov_ololo/mlops_flowers) | Team project on classification of 5 plants (tulip, chamomile, sunflower, rose, dandelion) based on a photo of a flower to a taxonomic genus based on a pre-trained neural network. The model allows you to upload a photo of a plant flower, carry out preliminary processing, give out the expected name of the flower and the accuracy of prediction in percent (%). | `pytorch` `cv2` `DVC` `Gitlab CI` `poetry` `Docker` |
 | [Russian Anime Portal Data Parsing](https://github.com/ankhanhi/russian-anime-dataset) | Parsing of the Russian anime portal [findanime.net](https://findanime.net). The dataset includes 7774 objects with 30 attributes (name, description, tags, user rating, translation status, number of series, reviews, etc.). The result is uploaded to a csv file. | `pandas` `BeautifulSoup` `requests-html` `regex` |
+| [Mars Analytics Intership](https://github.com/ankhanhi/mars-analytics-intership) | Comparative analysis of the responses of merchandisers and auditors on the representation of pet food. | `MS Excel` `VLOOKUP` `Pivot Tables`|
+| [Payments Analytics](https://github.com/ankhanhi/payments-analytics) | A SQL query for calculating the percentage of successful payments per month for each payment type such as Visa, Mastercard, etc in the new_payments table and dashboard to display it. | `SQL` `PostgreSQL` `Redash` |
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/ankhanhi/github-profile-views-counter">
